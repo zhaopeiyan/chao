@@ -1,0 +1,35 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+out/
+build/
+target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.idea/workspace.xml
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+/MATRIX_APPLOGS_DIR_IS_UNDEFINED/
+MATRIX_APPLOGS_DIR_IS_UNDEFINED/
+/MATRIX_APPLOGS_DIR_IS_UNDEFINED
+.DS_Store
